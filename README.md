@@ -1,2 +1,2 @@
 # Player
-A new MIDIPlayer With No Lag
+Player is a MIDI Player that plays without lag
